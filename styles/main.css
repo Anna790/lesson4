@@ -91,3 +91,35 @@ p {
     font-size: 1.17em;
     font-weight: bold;
 }
+.two-info-block {
+    color: white;
+    text-align: center;
+}
+.bottom-info-block {
+    display: inline-block;
+    width: 50%;
+    padding: 2em 0;
+}
+.blue {
+    background: #2690d4;
+}
+.dark {
+    background: #333;
+}
+.one-column {
+    padding: 2em;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer-col {
+    display: inline-block;
+    width: 44%;
+    padding: 2em;
+}
+.footer-col a {
+    color: #2690d4;
+    text-decoration: none;
+}
